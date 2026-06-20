@@ -81,7 +81,7 @@ https://www.higorchagasadv.com.br
 
 ### Direito Tributário
 
-![Direito Tributário](assets/screenshots/services)
+![Direito Tributário](assets/screenshots/services.png)
 
 ### Artigos
 
